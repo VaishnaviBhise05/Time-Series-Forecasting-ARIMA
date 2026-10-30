@@ -38,6 +38,5 @@ This project implements a time series forecasting pipeline using Python and ARIM
 - ARIMA model evaluation
 - 30-day demand forecast
 
-## Note
-Forecast quality depends on the dataset, its frequency, and the patterns present in the historical observations.
+
 
